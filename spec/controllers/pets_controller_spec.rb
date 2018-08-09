@@ -15,7 +15,7 @@ describe "Pets Controller" do
 
     # it "has a form with a checkbox for existing owners" do
     #   @owner = Owner.create(:name => "Cricky")
-    # 
+    #
     #   visit '/pets/new'
     #   expect(page.has_unchecked_field?(@owner.id)).to eq(true)
     # end
